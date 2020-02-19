@@ -1,0 +1,59 @@
+{
+    "CVE_data_meta": {
+        "STATE": "PUBLIC"
+    },
+    "affects": {
+        "vendor": {
+            "vendor_data": [
+                {
+                    "product": {
+                        "product_data": [
+                            {
+                                "version": {
+                                    "version_data": [
+                                        {}
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "data_format": "MITRE",
+    "data_type": "CVE",
+    "data_version": "4.0",
+    "description": {
+        "description_data": [
+            {
+                "lang": "eng",
+                "value": ""
+            }
+        ]
+    },
+    "generator": {
+        "engine": "Vulnogram 0.0.9"
+    },
+    "problemtype": {
+        "problemtype_data": [
+            {
+                "description": [
+                    {
+                        "lang": "eng"
+                    }
+                ]
+            }
+        ]
+    },
+    "references": {
+        "reference_data": [
+            {
+                "refsource": "CONFIRM"
+            }
+        ]
+    },
+    "source": {
+        "discovery": "UNKNOWN"
+    }
+}
